@@ -1,4 +1,4 @@
-# cybrix. — Enterprise Privacy Gateway for LLMs
+# Cybrix. — Enterprise Privacy Gateway for LLMs
 
 > **Zero-Trust In-Memory Perimeter Intercepting Indian Identifiers & Documents Before Cloud AI Processing**
 
@@ -116,7 +116,7 @@ cd chai
 
 ### **2. Install Backend Dependencies**
 
-Open a terminal at the project root (`D:\test\ChaiGPT2` or your cloned directory):
+Open a terminal at the project root (your cloned directory):
 
 ```bash
 # Upgrade pip
